@@ -1,0 +1,189 @@
+/* Font family */
+/* body {
+  font-family: cursive;
+}
+h1,
+h2 {
+  font-family: Arial, Verdana, sans-serif;
+}
+.credits {
+  font-family: "Courier New", Courier, monospace;
+} */
+
+/* Font Size */
+/* pixels */
+/* p {
+  font-size: 20px;
+} */
+
+/* Percentages */
+/* p {
+  font-size: 500%;
+} */
+
+/* Default Values */
+/* p {
+  font-size: larger;
+} */
+
+/* Em */
+/* p {
+  font-size: 3em;
+} */
+
+/* Font-Face */
+/* @font-face {
+  font-family: "urdu";
+  src: url(./Noto_Nastaliq_Urdu/static/NotoNastaliqUrdu-Regular.ttf);
+} */
+/* h1 {
+  font-family: urdu;
+} */
+
+/* Font weight */
+/* p {
+  font-weight: 900;
+} */
+
+/* Font-style */
+/* h1 {
+  font-style: italic;
+} */
+
+/* using id selector and comparing 3styles */
+/* #normal {
+  font-style: normal;
+}
+#italic {
+  font-style: italic;
+}
+#oblique {
+  font-style: oblique;
+} */
+
+/* Text Trabsformation */
+/* h1 {
+  text-transform: capitalize;
+} */
+
+/* Text Decoration */
+/* #none {
+  text-decoration: none;
+}
+#underline {
+  text-decoration: underline;
+}
+#overline {
+  text-decoration: overline;
+}
+#line-through {
+  text-decoration: line-through;
+}
+#blink {
+  text-decoration: blink;
+} */
+
+/* Line Height */
+/* p {
+  line-height: 100px ;
+} */
+
+/* letter and Word spacing */
+/* h1 {
+  word-spacing: 5px;
+} */
+/* h1 {
+  letter-spacing: 5px;
+} */
+
+/* Text align */
+/* p {
+  text-align: justify;
+} */
+
+/* Verticle Align */
+/* img {
+  vertical-align: text-top;
+} */
+
+/* Text Indent */
+/* p {
+  text-indent: 50px;
+  text-align: justify;
+} */
+
+/* Text-shadow */
+/* p {
+  background-color: wheat;
+  color: gray;
+  text-shadow: 1px 1px 0px black;
+} */
+
+/* First letter and First line */
+/* p::first-letter {
+  color: red;
+  font-size: 40px;
+} */
+
+/* p::first-line {
+  color: green;
+} */
+
+/* Styling links */
+/* a:link {
+  color: green;
+}
+a:visited {
+  color: red;
+} */
+
+/* Responding user */
+/* 
+input.btn:hover {
+  background-color: wheat;
+}
+
+input.btn:active {
+  background-color: red;
+}
+
+
+input.btn:focus {
+  background-color: blue;
+}
+
+input.textBox:focus {
+  background-color: black;
+  color: whit;
+} */
+
+/* Attribute Selectos */
+/* Existence */
+/* h1[name] {
+  color: red;
+} */
+
+/* Equality */
+/* h1[test="hi"] {
+  color: red;
+} */
+
+/* Space */
+/* h1[test~="hi"] {
+  color: red;
+} */
+
+/* Prefix */
+/* h1[test^="h"] {
+  color: blue;
+} */
+
+/* Substring */
+/* h1[test*="e"] {
+  color: green;
+} */
+
+/* Suffix */
+h1[test$="e"] {
+  color: pink;
+}
