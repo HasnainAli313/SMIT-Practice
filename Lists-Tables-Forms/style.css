@@ -1,0 +1,148 @@
+/* Unordered List */
+ul{
+    list-style-type: square;
+}
+
+/* Order list */
+/* ol{
+    list-style-type: upper-roman;
+} */
+
+/* Images for bullets  */
+/* ul{
+    list-style-image: disc;
+} */
+
+/* List Style Position */
+/* .illuminations{
+    list-style-position: outside;
+}
+.illuminations{
+    list-style-position: inside;
+} */
+
+/* list short-hand */
+/* ul {
+    list-style: inside circle;
+    width: 300px;
+} */
+
+/* Table Properties */
+/* table{
+    width: 600px;
+    border: 1px solid red;
+    padding:20px;
+    text-transform: uppercase;
+    border-top:2px solid red;
+
+} */
+
+/* table,td,th{
+    border: 1px solid red;
+    border-collapse: collapse;
+    text-align: left;
+} */
+/* table{
+    background-color: aqua;
+}
+tr:hover{
+    background-color: khaki;
+    cursor: pointer;
+} */
+
+/* td{
+    padding: 10px;
+}
+th{
+    font-weight: bold;
+    color:tomato;
+}
+.even{
+    background-color:chocolate;
+} */ 
+
+
+/* Empty cells */
+
+/* td {
+    border: 1px solid #0088dd;
+    padding: 15px;
+    empty-cells: show;
+
+}
+
+
+
+/* Gaps Between Cells */
+
+/* td{
+    background-color: burlywood;
+    padding: 10px;
+    border: 3px solid red;
+}
+
+table{
+    border-collapse: collapse separate;
+    border-spacing: 20px 30px;
+
+} 
+
+
+/* styling forms */
+/* 
+#ln{
+    margin-top: 5px;
+}
+ input{
+    font-size: xx-large;
+    color: red;
+    background-color:black;
+    color: white;
+} */
+
+/* input{
+   border: 2px solid red;
+   border-radius: 10px;
+} 
+input:hover{
+    background-color: lightblue;
+}
+input:focus{
+    border: 5px solid res;
+    outline: none;
+} */
+
+/* Background image */
+
+/* #Email{
+    background-image: url();
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-left: 30px;
+}
+
+#github{
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-left: 30px ;
+} */
+
+
+/* styling field & legend */
+
+/* fieldset {
+    display: block;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding-top: 0.35em;
+    padding-bottom: 0.625em;
+    padding-left: 0.75em;
+    padding-right: 0.75em;
+    border: 2px groove (internal value);
+  } */
+
+  input-btn:hover{
+  cursor: help;
+  }
+
