@@ -1,0 +1,75 @@
+/* Size of Image */
+/* img{
+    width:600px;
+} */
+
+/* Alignment of Images */
+/* img{
+    width: 400px;
+    margin-left: 300px;
+} */
+
+/* float */
+/* img{
+    width: 400px;
+   float: right;
+} */
+
+/* Centering Images */
+/* img{
+        width: 400px;
+        margin: auto;
+        display: block;
+
+} */
+
+/* Background Images */
+/* body{
+    background-image: url("./pexels-jesse-zheng-1213294.jpg");
+    font-size: xx-large;
+} */
+
+/* Background image Repeat */
+/* body{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+} */
+
+/* Background Position */
+/* body{
+    background-image: url("./pexels-jesse-zheng-1213294.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 300px;
+    background-position: right top;
+} */
+
+/* Background Shorthand */
+/* body{
+    background:gray url("./pexels-jesse-zheng-1213294.jpg") no-repeat top right;
+} */
+
+/* Gradients */  
+
+/* Linear Gradients */
+/* div{
+    background-image: linear-gradient(to right,green,blue,gray);
+    width: 400px;
+    height: 400px;
+} */
+
+/* Radial Gradient */
+/* div{
+    height: 400px;
+    width: 400px;
+    background-image: radial-gradient(yellow, green,blue);
+} */
+
+/* Conic Gradient */
+/* div{
+    width: 400px;
+    height: 400px;
+    background-image: Conic-gradient(yellow, green,blue);
+
+} */
